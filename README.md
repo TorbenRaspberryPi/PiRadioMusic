@@ -18,5 +18,5 @@ sudo ./fm_transmitter -f 96.1 DanceMonkey.wav
 
 Convering cmd
 ```
-sox my-audio.mp3 -r 22050 -c 1 -b 16 -t wav DanceMonkey.wav
+sox my-audio.mp3 -r 22050 -c 1 -b 16 -t wav file-to-convert.wav
 ```
